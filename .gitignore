@@ -3,9 +3,9 @@ node_modules/
 /test/
 custom-elements.json
 # top level source
-my-element.js
-my-element.js.map
-my-element.d.ts
-my-element.d.ts.map
+json-form.js
+json-form.js.map
+json-form.d.ts
+json-form.d.ts.map
 # only generated for size check
-my-element.bundled.js
+json-form.bundled.js
